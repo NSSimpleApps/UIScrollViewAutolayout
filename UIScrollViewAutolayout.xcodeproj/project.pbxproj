@@ -29,6 +29,7 @@
 		B5856D7B1DEDBE7A0000A5CA /* UIScrollView+ContentView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScrollView+ContentView.h"; sourceTree = "<group>"; };
 		B5856D7C1DEDBE7A0000A5CA /* UIScrollView+ContentView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+ContentView.m"; sourceTree = "<group>"; };
 		B5856D7E1DEDC6720000A5CA /* rule.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rule.png; sourceTree = "<group>"; };
+		B5856D801DEDCE690000A5CA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +46,7 @@
 		B5856D581DEDBD4B0000A5CA = {
 			isa = PBXGroup;
 			children = (
+				B5856D801DEDCE690000A5CA /* README.md */,
 				B5856D631DEDBD4E0000A5CA /* UIScrollViewAutolayout */,
 				B5856D621DEDBD4E0000A5CA /* Products */,
 			);
